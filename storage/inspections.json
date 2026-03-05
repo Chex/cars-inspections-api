@@ -1,0 +1,18 @@
+[
+    {
+        "carId": 1,
+        "wipers": true,
+        "engineSound": true,
+        "headlights": true,
+        "performedAt": "2026-03-05T02:15:47+00:00",
+        "id": 1
+    },
+    {
+        "carId": 2,
+        "wipers": true,
+        "engineSound": true,
+        "headlights": false,
+        "performedAt": "2026-03-05T02:16:19+00:00",
+        "id": 2
+    }
+]
